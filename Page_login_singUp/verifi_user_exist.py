@@ -1,0 +1,1 @@
+req_verif_user_exist = 'select nom, email from user where nom ={name} and email ={email}'
